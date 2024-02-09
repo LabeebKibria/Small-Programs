@@ -1,5 +1,5 @@
 # Small-Programs
-Short programs I made to solve problems from assignments and competitions
+Short programs I made to solve problems from assignments and competitions in high school
 
 **Meeting.Java Program Purpose and Functionality**
 - The program will output a time to schedule a meeting at the earliest instance everyone is free
