@@ -3,7 +3,7 @@ import java.sql.Time;
 import java.util.Scanner;
 public class Meeting {
     public static void main(String[] args)throws Exception {
-        Scanner file = new Scanner(new File("Student Data/meeting.dat"));
+        Scanner file = new Scanner(new File("meeting.dat"));
         int numSets = file.nextInt();
         file.nextLine();
         for (int i = 0; i < numSets; i++) {
