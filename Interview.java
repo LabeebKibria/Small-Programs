@@ -3,7 +3,7 @@ import java.util.*;
 
 public class Interview {
     public static void main(String[] args)throws Exception {
-        Scanner file = new Scanner(new File("Student Data/interview.dat"));
+        Scanner file = new Scanner(new File("interview.dat"));
         int numSets = file.nextInt();
         file.nextLine();
         for (int i = 0; i < numSets; i++) {
